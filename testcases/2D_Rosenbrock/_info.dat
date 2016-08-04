@@ -1,0 +1,4 @@
+default_test_sample = LHC_1000_0.txt
+inputs = 2
+outputs = 1
+source = analytic

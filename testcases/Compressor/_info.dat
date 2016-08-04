@@ -1,0 +1,4 @@
+default_test_sample = NODOE_92_0.txt
+inputs = 15
+outputs = 4
+source = "unknown"

@@ -1,0 +1,4 @@
+default_test_sample = UNIF_1000_0.txt
+inputs = 1
+outputs = 1
+source = analytic

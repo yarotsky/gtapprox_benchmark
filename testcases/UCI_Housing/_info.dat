@@ -1,0 +1,4 @@
+default_test_sample = NODOE_106_0.txt
+inputs = 13
+outputs = 1
+source = "UCI repository, https://archive.ics.uci.edu/ml/index.html"

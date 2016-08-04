@@ -1,0 +1,4 @@
+default_test_sample = RND_20000_0.txt
+inputs = 5
+outputs = 1
+source = analytic

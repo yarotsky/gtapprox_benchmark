@@ -1,0 +1,4 @@
+default_test_sample = NODOE_10000_0.txt
+inputs = 3
+outputs = 4
+source = "GdR Mascot-Num benchmark, http://www.gdr-mascotnum.fr/benchmarks.html"
