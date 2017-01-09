@@ -1,6 +1,6 @@
 # GTApprox benchmark
 
-These are scripts and data we used to compare GTApprox against several popular approximation libraries, as described in paper **GTApprox: surrogate modeling for industrial design** (to appear). 
+These are scripts and data we used to compare GTApprox against several popular approximation libraries, as described in the paper **GTApprox: surrogate modeling for industrial design** ([journal publication](http://www.sciencedirect.com/science/article/pii/S0965997816303696), [arXiv preprint](https://arxiv.org/abs/1609.01088)). 
 
 <img src="figures/rrms.png" alt="RRMS error profile" width="40%"/> <img src="figures/trainTime.png" alt="Training time profile" width="40%"/>
 
